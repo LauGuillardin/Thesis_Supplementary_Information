@@ -42,4 +42,5 @@ Summary of each stand basal area, canopy density and species diversity indexes r
 Includes the following columns:  
 *Stand*: stand name, *Basal area G(m2/h)*: average basal area estimated in each plot, *Canopy density (%)*: average canopy density estimated from each plot, *Species richness (S)*: number of actual species per site, *Shannon entropy index (H)*: 𝐻' estimated as described in page 71 CHapter 3, *Species evenness (E)*: E=H'/ln(S), *Effective number of species*: EXP(H'), *Reciprocal Simpson Index (1/D)*: average 1/D, *Gini-Simpson Index (1-D)*: average 1-D.
 
-
+**TERMS**  
+Definition of each species scientific names abbreviation used throughout the document.
