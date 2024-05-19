@@ -4,11 +4,11 @@ The inventory directory includes the raw and processed data from the seven study
 
 ## Each file is named after the main site name:
 
-**LONGLEAT.xlsx** includes the data for Longleat1 (L1), which is included in Chapter 3, and Longleat2 (L2), which is a study site of Chapter 4.  
-**STOURHEAD.xlsx** includes the data for Stourhead1 (S1), which is included in Chapter 3, and Stourhead2 (S2), which is a study site of Chapter 3 and Chapter 4.  
-**BAGLEY WOOD.xlsx** includes the data for Bagley Wood (BW), which is included in Chapter 3.  
-**MORTIMER.xlsx** includes the data for Mortimer (M), which is included in Chapter 4.  
-**RINGWOOD.xlsx** includes the data for Ringwood (R), which is included in Chapter 4.  
+**LONGLEAT_inventory.xlsx** includes data from Longleat1 (L1), which is included in Chapter 3, and Longleat2 (L2), which is a study site of Chapter 4.  
+**STOURHEAD_inventory.xlsx** includes data from Stourhead1 (S1), which is included in Chapter 3, and Stourhead2 (S2), which is a study site of Chapter 3 and Chapter 4.  
+**BAGLEY WOOD_inventory.xlsx** includes data from Bagley Wood (BW), which is included in Chapter 3.  
+**MORTIMER_inventory.xlsx** includes data from Mortimer (M), which is included in Chapter 4.  
+**RINGWOOD_inventory.xlsx** includes data from Ringwood (R), which is included in Chapter 4.  
 
 ## Each file contains seven tabs:  
 
